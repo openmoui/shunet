@@ -1,6 +1,6 @@
 # Shunet
 
-上海大学（Shanghai University）校园网连接工具，支持Macos, Windows.
+上海大学（Shanghai University）校园网连接工具，支持Macos(m1), Windows.
 
 由于校园网在一段时间内会认证失效，需要重新认证，因此开发shunet，自动重连.
 
